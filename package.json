@@ -1,18 +1,18 @@
 {
-  "name": "project-YachtRental04",
+  "name": "team-project-YachtRental",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-YachtRental04/",
+    "build": "vite build --base=/team-project-YachtRental/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^4.5.2",
     "glob": "^8.1.0"
   },
-  "author": "Petro Zaitsev <zaytsewww@gmail.com>",
+  "author": "Boris Ziukov <ziukoff1985@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
